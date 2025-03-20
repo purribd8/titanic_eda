@@ -1,5 +1,7 @@
 # titanic_eda
 
+## See titanic_project.ipynb for code.
+
 This project is an in-depth Exploratory Data Analysis (EDA) of the Titanic dataset. The goal was to clean, analyze, and extract meaningful insights from the data regarding survival patterns, passenger demographics, and potential anomalies.
 
 The analysis includes:
