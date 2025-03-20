@@ -1,4 +1,4 @@
-# titanic_eda
+# Titanic_EDA
 
 ## See titanic_project.ipynb for code.
 
